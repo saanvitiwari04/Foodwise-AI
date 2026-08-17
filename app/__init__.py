@@ -1,0 +1,2 @@
+"""Foodwise AI backend prototype."""
+
